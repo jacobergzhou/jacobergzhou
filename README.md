@@ -1,4 +1,7 @@
-# Hey there 👋 I'm Yinsheng (Jacob) Zhou  
+# Hey there 👋 I'm Yinsheng (Jacob) Zhou  [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-4CAF50?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yinsheng-jacob-zhou/)
+
+*💼 **Actively seeking new software engineering opportunities** — if your team is building something ambitious, I’d love to connect.*
+--
 
 **Software Engineer (ex-Amazon)** passionate about building **cloud infrastructure**, **scaling systems**, and **AI/LLM platforms** that bridge reliability with intelligence.  
 
@@ -34,4 +37,4 @@ With experience developing **tier-1 autoscaling and configuration platforms** at
 # 📊 GitHub Stats
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobergzhou&show_icons=true&theme=radical)  
 
-💡 *Currently open to new software engineering opportunities — especially in infrastructure, scaling systems, and AI/LLM platforms.*  
+💡 *“Systems that scale, code that learns.”*  
