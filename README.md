@@ -14,3 +14,5 @@
 - 🧰 Open-source contributions to SkyPilot and KServe  
 
 💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/yinsheng-jacob-zhou/) 
+
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobergzhou&show_icons=true&theme=radical)
