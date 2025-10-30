@@ -3,7 +3,7 @@
 *💼 **Actively seeking new software engineering opportunities** — if your team is building something ambitious, I’d love to connect.*
 --
 
-**Software Engineer (ex-Amazon)** passionate about building **cloud infrastructure**, **scaling systems**, and **AI/LLM platforms** that bridge reliability with intelligence.  
+**Software Engineer** passionate about building **cloud infrastructure**, **scaling systems**, and **AI/LLM platforms** that bridge reliability with intelligence.  
 
 With experience developing **tier-1 autoscaling and configuration platforms** at Amazon, I’ve worked across distributed systems, on-call reliability, and AI-assisted infrastructure. My background spans **backend, platform, and AI infra**, combining engineering depth with a love for systems that scale predictably — and think a little smarter every iteration.  
 
